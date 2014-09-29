@@ -15,5 +15,6 @@ public class Start {
     
     public Start(){
         int c=5;
+        String text="Hallo2";
     }
 }
