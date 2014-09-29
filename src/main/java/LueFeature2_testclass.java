@@ -10,4 +10,5 @@
 public class LueFeature2_testclass {
     public int testvariable = 15;
     public String toll="";
+    private int c=4;
 }
