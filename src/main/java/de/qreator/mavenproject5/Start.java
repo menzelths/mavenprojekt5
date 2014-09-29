@@ -11,4 +11,10 @@ package de.qreator.mavenproject5;
  */
 public class Start {
     public int zahl=5;
+    public String s="Hallo";
+    
+    public Start(){
+        int c=5;
+        String text="Hallo2";
+    }
 }
